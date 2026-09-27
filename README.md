@@ -1115,7 +1115,7 @@ Future additions may include:
 
 # 👨‍💻 Author
 
-**Fida Hussain**
+**Munawar Hussain**
 
 Interested in:
 
